@@ -26,7 +26,7 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 5 volts
 
-![a relative link](./Screen Shot 2018-09-06 at 9.55.23 AM.png)
+![a relative link](./pwr.png)
 
 
 **b. What voltage level do you need to power the display backlight?**
