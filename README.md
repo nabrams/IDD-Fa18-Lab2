@@ -30,6 +30,8 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 
 **b. What voltage level do you need to power the display backlight?**
+
+![a relative link](./backlight.png)
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
