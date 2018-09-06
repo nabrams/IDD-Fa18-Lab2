@@ -24,6 +24,11 @@ Include your responses to the bold questions on your own fork of [this lab repor
  
 **a. What voltage level do you need to power your display?**
 
+5 volts
+
+[!relative link]()
+
+
 **b. What voltage level do you need to power the display backlight?**
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
