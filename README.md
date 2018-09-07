@@ -42,9 +42,13 @@ the display LCD block was only showing black squares and not letters. The mistak
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
 
 Change this:
+
 `lcd.print("Hello, World!");`
+
 To this:
+
 `lcd.print("Natalie!");`
+
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
