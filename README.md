@@ -35,6 +35,8 @@ Include your responses to the bold questions on your own fork of [this lab repor
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+the display LCD block was only showing black squares and not letters. The mistake was that I forgot to connect K to ground. Once I did that, the letters showed up!
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
