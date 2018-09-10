@@ -90,6 +90,11 @@ void loop()
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+divide this line by 2:
+'
+int noteDuration = 1000 / noteDurations[thisNote] /2;
+'
  
 **b. What song is playing?**
 
