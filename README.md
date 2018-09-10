@@ -97,7 +97,7 @@ int noteDuration = 1000 / noteDurations[thisNote] /2;
 `
  
 **b. What song is playing?**
-
+Star Wars opening crawl!
 
 ## Part E. Make your own timer
 
