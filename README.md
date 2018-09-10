@@ -51,7 +51,34 @@ To this:
 
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
+```// include the library code:
+#include <LiquidCrystal.h>
 
+// initialize the library by associating any needed LCD interface pin
+// with the arduino pin number it is connected to
+const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+
+
+int val = 0;
+void setup()
+{
+ lcd.begin(16, 2);
+}
+
+void loop()
+{
+ val=analogRead(1);
+ lcd.clear();
+ lcd.print("Multimeter:");
+ lcd.setCursor(0,1);
+ lcd.print(val);
+ delay(500);
+}
+
+```
+
+[MyMultimeter Code](./myMultimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
