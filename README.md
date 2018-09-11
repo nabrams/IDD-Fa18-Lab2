@@ -105,4 +105,6 @@ Star Wars opening crawl!
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+[![Watch the video](/visual_cue_timer.jpg)](https://youtu.be/_8XqPYab43A)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
