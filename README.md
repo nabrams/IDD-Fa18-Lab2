@@ -1,4 +1,6 @@
 # Make a Digital Timer!
+
+A lab report by Natalie B. Abrams
  
 ## Overview
 For this assignment, you are going to 
