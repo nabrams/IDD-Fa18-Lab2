@@ -109,4 +109,6 @@ Star Wars opening crawl!
 
 [Visual Cue Timer](https://youtu.be/_8XqPYab43A)
 
+[Visual Cue Timer Code] (./visual_cue_timer.ino)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
